@@ -1,5 +1,5 @@
 # Stock Analysis
-### Refactor VBA COde and Measure Performance
+##### Refactor VBA Code and Measure Performance
 
 ## Overview of Project
 
