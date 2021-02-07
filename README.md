@@ -30,15 +30,15 @@ To insure that the refactored code output for the 2017 and 2018 stock analysis w
 ##### Performance Analysis
 
 The refactored code reduced the run time of the script, resulting in the results being compiled faster. A timer was included to capture the start and end time of the executed code. _startTime_ and _endTime_ variables were were declared as Single data types and the _startTime_ variable was set as equal to the _Timer_, which results in the clock starting after receiving the _yearValue_ input. 
->
+> ![Screen Shot 2021-02-07 at 12 08 03 PM](https://user-images.githubusercontent.com/77405273/107158180-26371e00-693d-11eb-86ca-c40e88b0fcbc.png)
 
 The refactored code was observed to run faster than the origianl Stock Analaysis code. For 2017 the original run time was 0.3359375 seconds and the refactored code run time was **0.09375 seconds**.
 ###### Stock Analysis Timer 2017
->
+> ![VBA_Challenge_2017](https://user-images.githubusercontent.com/77405273/107158193-364efd80-693d-11eb-902f-a12d5fa8a66b.png)
 
 ###### Stock Analysis Timer 2018
 For 2018 the original run time was 0.328125 seconds and the refactored code run time was **0.09375 seconds**.
->
+> ![VBA_Challenge_2018](https://user-images.githubusercontent.com/77405273/107158196-3949ee00-693d-11eb-8b12-1249d33fc44a.png)
 
 ## Summary
 
